@@ -1,6 +1,6 @@
 def get_hello_message():
     print('Hello friends how are you')
-    print("welcome to v2solutions"
+    print("welcome to v2solutions")
     return "Hello, World!"
 
 def print_hello():
