@@ -1,4 +1,5 @@
 def get_hello_message():
+    print('Hello friends how are you')
     return "Hello, World!"
 
 def print_hello():
